@@ -1,0 +1,2 @@
+# Scraping_Google
+pythonを用いたwebスクレイピング技術の開発。googleだけでなくyoutube、twitter、amazonなども実装予定。また、複数のwebを同時に操作するコードも随時開発予定
